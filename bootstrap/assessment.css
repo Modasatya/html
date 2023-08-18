@@ -1,0 +1,39 @@
+.a{
+	float: left;
+}
+.b{
+	float: right;
+}
+#c{
+	font-size: 50px;
+	color: blue;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+#d{
+	padding-right: 40px;
+	padding-top: 5px;
+	color:red;
+	font-size: 50px;
+	
+}
+#e{
+	padding-right: 40px;
+	padding-top: 5px;
+	color:skyblue;
+	font-size: 50px;
+}
+.abc{
+	height: 5px;
+	width: 100%;
+	background-color:gray;
+}
+.bca{
+	height: 5px;
+	width: 70%;
+	float: left;
+	background-color: blue;
+}
+.cab{
+	float: right;
+}
